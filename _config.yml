@@ -1,1 +1,5 @@
-theme: jekyll-theme-tactile
+#theme: jekyll-theme-tactile
+safe: true
+lsi: true
+highlighter: pygments
+title: 1st Merigar Hackathon
