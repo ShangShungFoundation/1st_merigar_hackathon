@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to 1st Merigar Hackathon
 
-You can use the [editor on GitHub](https://github.com/ShangShungFoundation/1st_merigar_hackathon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank You for your submission to Merigar Hackathon
+Great to have you onboard!! :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For sure your help will be appreciated. 
+Hackathon is not only good opportunity to have some fun contributing to useful project but its greate place to learn something new...
 
-### Markdown
+### We can work on following projects
+All projects will be hosted on github. Check each of them for more info:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Online Tibetan Learning Multimedia app](https://github.com/ShangShungFoundation/tib_learn_app)
+- Simple Mobile Game
+- Mobile Magazine App
+- Tibetan OCR app
 
-```markdown
-Syntax highlighted code block
+### Common Requirements
 
-# Header 1
-## Header 2
-### Header 3
+- Good internet connection
+- [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowladge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShangShungFoundation/1st_merigar_hackathon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kamil Selwa - k.selwa (at) shangshunginstitute.org
