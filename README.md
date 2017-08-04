@@ -3,7 +3,7 @@
 Thank You for your submission to Merigar Hackathon
 Great to have you onboard!! :)
 
-For sure your help will be appreciated. 
+For sure your help will be appreciated.
 Hackathon is not only good opportunity to have some fun contributing to useful project but its greate place to learn something new...
 
 ### We can work on following projects
@@ -22,3 +22,5 @@ All projects will be hosted on github. Check each of them for more info:
 ### Contact
 
 Kamil Selwa - k.selwa (at) shangshunginstitute.org
+
+[webpage](https://shangshungfoundation.github.io/1st_merigar_hackathon/)
