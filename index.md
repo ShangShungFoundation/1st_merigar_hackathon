@@ -33,16 +33,6 @@ All projects will be hosted on github. Check each of them for more info:
 [Bootstrap](http://getbootstrap.com/getting-started/)
 - mobile: [React Native](http://www.reactnative.com/), iOS, Android
 
-### Starting Project
-Assuming that you have node.js installed globally
-```sh
-npm install -g create-react-app
-
-create-react-app my-app
-cd my-app/
-npm start
-
-```
 ### Contact
 
 Kamil Selwa - k.selwa (at) shangshunginstitute.org
