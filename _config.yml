@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 safe: true
 lsi: true
-highlighter: pygments
+highlighter: rouge
 title: 1st Merigar Hackathon
 github: https://github.com/ShangShungFoundation/1st_merigar_hackathon/
