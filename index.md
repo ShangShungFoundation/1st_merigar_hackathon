@@ -20,7 +20,7 @@ All projects will be hosted on github. Check each of them for more info:
 ### Common Requirements
 
 - Good internet connection
-- [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowladge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+- [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowledge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 
 ### Desired knowledge
 
