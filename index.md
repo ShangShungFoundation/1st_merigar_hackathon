@@ -30,5 +30,3 @@ All projects will be hosted on github. Check each of them for more info:
 ### Contact
 
 Kamil Selwa - k.selwa (at) shangshunginstitute.org
-
-[webpage](https://shangshungfoundation.github.io/1st_merigar_hackathon/)
