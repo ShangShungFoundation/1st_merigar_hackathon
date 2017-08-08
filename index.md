@@ -23,13 +23,22 @@ All projects will be hosted on github. Check each of them for more info:
 - Mobile Magazine App
 - Tibetan OCR app
 
+### Desired knowledge
+
+- web: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), 
+[ES6](https://babeljs.io/learn-es2015/), 
+[Node.js](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js), 
+[React](https://facebook.github.io/react/), 
+[Bootstrap](http://getbootstrap.com/getting-started/)
+- mobile: [React Native](http://www.reactnative.com/), iOS, Android
+
 ### Common Requirements
 
 - Good internet connection
 - [Github account](https://github.com/)
 - [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowledge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 
-### Common Roles
+### Project Roles
 
 - **Designer, UX Expert** - prepares basic intreface design
 - **Hacker** - developes code related with his tasks to reach defined milestone 
@@ -46,15 +55,6 @@ All projects will be hosted on github. Check each of them for more info:
 - **Mentor** - non-technical person, undersatnding well domain of the project
 
 There can be scenarios, of course, when same person can undertake various roles
-
-### Desired knowledge
-
-- web: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), 
-[ES6](https://babeljs.io/learn-es2015/), 
-[Node.js](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js), 
-[React](https://facebook.github.io/react/), 
-[Bootstrap](http://getbootstrap.com/getting-started/)
-- mobile: [React Native](http://www.reactnative.com/), iOS, Android
 
 ### Project development process:
 
