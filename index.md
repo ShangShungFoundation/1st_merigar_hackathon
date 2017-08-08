@@ -65,9 +65,9 @@ There can be scenarios, of course, when same person can undertake various roles
 5. **Asigning milestones**
 6. **Asigning tasks**
 7. **Developement**
-  - creation of interface wireframe
-  - interface design
-  - frontend/backend developement
+    - creation of interface wireframe
+    - interface design
+    - frontend/backend developement
 8. **Testing**
 9. **Presentation**
 
