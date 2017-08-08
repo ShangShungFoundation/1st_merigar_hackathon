@@ -61,6 +61,7 @@ There can be scenarios, of course, when same person can undertake various roles
 1. **Teambuilding** - completing small team (around 3-5 persons)
 2. **Connecting team to the communcation channells** at https://conference.shangshungfoundation.org/
 3. **Brainstorming**
+4. checking team memebers time availability
 4. **Asigning roles**
 5. **Asigning milestones**
 6. **Asigning tasks**
