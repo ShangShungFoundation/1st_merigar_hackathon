@@ -9,7 +9,9 @@ Great to have you onboard!! :)
 For sure your help will be appreciated.
 Hackathon is not only good opportunity to have some fun contributing to useful project but its greate place to learn something new...
 
-We dont pretend to deliver at the end fully developed and polished product, rather workable prototype proofing given idea.
+Participant should choose project taking into account his prefferences and skills.
+
+We don't pretend to deliver at the end fully fledged and polished product, but rather workable prototype validating given idea.
 
 [Hackathon Project](https://github.com/ShangShungFoundation/1st_merigar_hackathon/projects/1?fullscreen=true)
 
@@ -36,7 +38,7 @@ All projects will be hosted on github. Check each of them for more info:
   - coordinates assigning roles and tasks
   - coordinates assigning project tasks and milestones
   - overlook of project developement
-  - stimalates members to complete tasks and milestones
+  - animates members to complete tasks and milestones
   - in measure of capacity steps into developement process
   - collaborates in presentation of finall project
 - **Tester** - test project
