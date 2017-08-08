@@ -11,7 +11,7 @@ Hackathon is not only good opportunity to have some fun contributing to useful p
 
 Please choose a project taking into account your prefferences and skills.
 
-We don't pretend to deliver at the end fully fledged and polished product, but rather workable prototype validating given idea.
+We don't pretend to deliver at the end fully fledged and polished product, but rather workable prototype for given idea.
 
 [Hackathon Project](https://github.com/ShangShungFoundation/1st_merigar_hackathon/projects/1?fullscreen=true)
 
