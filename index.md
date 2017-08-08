@@ -9,13 +9,13 @@ Great to have you onboard!! :)
 For sure your help will be appreciated.
 Hackathon is not only good opportunity to have some fun contributing to useful project but its greate place to learn something new...
 
-Participant should choose project taking into account his prefferences and skills.
+Please choose a project taking into account your prefferences and skills.
 
 We don't pretend to deliver at the end fully fledged and polished product, but rather workable prototype validating given idea.
 
 [Hackathon Project](https://github.com/ShangShungFoundation/1st_merigar_hackathon/projects/1?fullscreen=true)
 
-### We will work on following projects
+### You can work on following projects
 All projects will be hosted on github. Check each of them for more info:
 
 - [Online Tibetan Learning Multimedia app](https://github.com/ShangShungFoundation/tib_learn_app)
