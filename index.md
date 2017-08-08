@@ -56,6 +56,21 @@ There can be scenarios, of course, when same person can undertake various roles
 [Bootstrap](http://getbootstrap.com/getting-started/)
 - mobile: [React Native](http://www.reactnative.com/), iOS, Android
 
+### Project development process:
+
+1. **Teambuilding** - completing small team (around 3-5 persons)
+2. **Connecting team to the communcation channells** at https://conference.shangshungfoundation.org/
+3. **Brainstorming**
+4. **Asigning roles**
+5. **Asigning milestones**
+6. **Asigning tasks**
+7. **Developement**
+  - creation of interface wireframe
+  - interface design
+  - frontend/backend developement
+8. **Testing**
+9. **Presentation**
+
 ### Contact
 
 Kamil Selwa - k.selwa (at) shangshunginstitute.org
