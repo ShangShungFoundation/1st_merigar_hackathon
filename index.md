@@ -27,6 +27,24 @@ All projects will be hosted on github. Check each of them for more info:
 - [Github account](https://github.com/)
 - [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowledge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 
+### Common Roles
+
+- **Designer, UX Expert** - prepares basic intreface design
+- **Hacker** - developes code related with his tasks to reach defined milestone 
+- **Project Coordinator**
+  - helps build project team
+  - coordinates assigning roles and tasks
+  - coordinates assigning project tasks and milestones
+  - overlook of project developement
+  - stimalates members to complete tasks and milestones
+  - in measure of capacity steps into developement process
+  - collaborates in presentation of finall project
+- **Tester** - test project
+- **Collaborator** - carry away varius tasks necessary for the project
+- **Mentor** - non-technical person, undersatnding well domain of the project
+
+There can be scenarios, of course, when same person can undertake various roles
+
 ### Desired knowledge
 
 - web: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), 
