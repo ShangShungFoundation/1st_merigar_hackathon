@@ -74,4 +74,4 @@ There can be scenarios, of course, when same person can undertake various roles
 
 ### Contact
 
-Kamil Selwa - k.selwa (at) shangshunginstitute.org
+@K1000 Kamil Selwa - k.selwa (at) shangshunginstitute.org
