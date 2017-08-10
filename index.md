@@ -21,7 +21,7 @@ All projects will be hosted on github. Check each of them for more info:
 - [Online Tibetan Learning Multimedia app](https://github.com/ShangShungFoundation/tib_learn_app)
 - [Simple Online Game](https://github.com/ShangShungFoundation/tibetan_game)
 - Mobile Magazine App
-- Tibetan OCR app
+- [Mobile Tibetan OCR App](https://github.com/ShangShungFoundation/tibetan_ocr_app)
 
 ### Desired knowledge
 
