@@ -3,8 +3,12 @@ layout: base
 ---
 ## Welcome to 1st Merigar Hackathon
 
+![image](http://melong.com/wp-content/uploads/2017/07/1-hackathon-2017-3.jpg)
+
 Thank You for your submission to Merigar Hackathon.
 Great to have you onboard!! :)
+
+With this event, we are initiating the broader campaign “Programmers for Tibetan Culture” in which all programmers and institutions which recognize the value of Tibetan culture are welcome to collaborate on Open Source projects for the benefit of all.
 
 For sure your help will be appreciated.
 Hackathon is not only good opportunity to have some fun contributing to useful project but its greate place to learn something new...
