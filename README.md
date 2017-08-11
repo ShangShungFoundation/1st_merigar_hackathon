@@ -54,7 +54,7 @@ All projects will be hosted on github. Check each of them for more info:
   - collaborates in presentation of finall project
 - **Tester** - test project
 - **Collaborator** - carry away varius non-programming tasks necessary for the project
-- **Mentor** - non-technical person, undersatnding well domain of the project
+- **Mentor** - person understanding well domain of the project
 
 There can be scenarios, of course, when same person can undertake various roles
 
