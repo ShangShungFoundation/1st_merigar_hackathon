@@ -8,16 +8,16 @@ layout: base
 Thank You for your submission to Merigar Hackathon.
 Great to have you onboard!! :)
 
-With this event, we are initiating the broader campaign “Programmers for Tibetan Culture” in which all programmers and institutions which recognize the value of Tibetan culture are welcome to collaborate on Open Source projects for the benefit of all.
+With this event, we are initiating the broader campaign “Programmers for Tibetan Culture” in which all programmers and institutions which recognize the value of Tibetan culture are welcome to collaborate on related Open Source projects for the benefit of all.
 
 For sure your help will be appreciated.
 Hackathon is not only good opportunity to have some fun contributing to useful project but its greate place to learn something new...
 
 Please choose a project taking into account your prefferences and skills.
 
-We don't pretend to deliver at the end fully fledged and polished product, but rather workable prototype for given idea.
+We don't pretend to deliver at the end fully fledged and polished product, but rather workable prototype for prooving given idea.
 
-All projects will be published under Open Source _[MIT License](LICENSE)_. Can be used freely later by SSF, IDC or any other organization or person. 
+All projects will be published under Open Source _[MIT License](LICENSE)_ and can be used freely later by SSF, IDC or any other organization or person. 
 
 [Hackathon Project](https://github.com/ShangShungFoundation/1st_merigar_hackathon/projects/1?fullscreen=true)
 
@@ -31,6 +31,12 @@ All projects will be hosted on github. Check each of them for more info:
 - [Mobile Magazine App](https://github.com/ShangShungFoundation/mobile_magazine_app)
 - [Mobile Tibetan OCR App](https://github.com/ShangShungFoundation/tibetan_ocr_app)
 
+### Common Requirements
+
+- [x] Good internet connection
+- [x] [Github account](https://github.com/)
+- [x] [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowledge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+
 ### Desired knowledge
 
 - [x]  web: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), 
@@ -40,13 +46,7 @@ All projects will be hosted on github. Check each of them for more info:
 [Bootstrap](http://getbootstrap.com/getting-started/)
 - [x] mobile: [React Native](http://www.reactnative.com/), iOS, Android
 
-### Common Requirements
-
-- [x] Good internet connection
-- [x] [Github account](https://github.com/)
-- [x] [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowledge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
-
-### Project Roles
+### Possible Project Roles
 
 - **Designer, UX Expert** - prepares basic intreface design
 - **Hacker** - developes code related with his tasks to reach defined milestone 
@@ -64,7 +64,7 @@ All projects will be hosted on github. Check each of them for more info:
 
 There can be scenarios, of course, when same person can undertake various roles
 
-### Project development process:
+### Proposed Project development steps:
 
 1. **Teambuilding** - completing small team (around 3-5 persons)
 2. **Connecting team to the communcation channells** at https://conference.shangshungfoundation.org/
