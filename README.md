@@ -22,6 +22,8 @@ All projects will be published under Open Source _[MIT License](LICENSE)_ and ca
 [Hackathon Project](https://github.com/ShangShungFoundation/1st_merigar_hackathon/projects/1?fullscreen=true)
 
 Spread the news and [register here now](https://goo.gl/forms/S8i8sXOCgYL2uXhP2)!
+### Modality
+- on line, on site (Merigar)
 
 ### You can work on following projects
 All projects will be hosted on github. Check each of them for more info:
