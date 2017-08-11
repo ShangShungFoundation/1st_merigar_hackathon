@@ -13,6 +13,8 @@ Please choose a project taking into account your prefferences and skills.
 
 We don't pretend to deliver at the end fully fledged and polished product, but rather workable prototype for given idea.
 
+All projects will be published under [MIT Licence](LICENCE). Can be used futher by SSF, IDC or other organizations freely
+
 [Hackathon Project](https://github.com/ShangShungFoundation/1st_merigar_hackathon/projects/1?fullscreen=true)
 
 ### You can work on following projects
