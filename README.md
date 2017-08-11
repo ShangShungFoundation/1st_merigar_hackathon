@@ -3,7 +3,7 @@ layout: base
 ---
 ## Welcome to 1st Merigar Hackathon
 
-Thank You for your submission to Merigar Hackathon
+Thank You for your submission to Merigar Hackathon.
 Great to have you onboard!! :)
 
 For sure your help will be appreciated.
