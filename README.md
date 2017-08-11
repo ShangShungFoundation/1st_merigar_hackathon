@@ -27,18 +27,18 @@ All projects will be hosted on github. Check each of them for more info:
 
 ### Desired knowledge
 
-- web: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), 
+- [*]  web: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), 
 [ES6](https://babeljs.io/learn-es2015/), 
 [Node.js](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js), 
 [React](https://facebook.github.io/react/), 
 [Bootstrap](http://getbootstrap.com/getting-started/)
-- mobile: [React Native](http://www.reactnative.com/), iOS, Android
+- [*] mobile: [React Native](http://www.reactnative.com/), iOS, Android
 
 ### Common Requirements
 
-- Good internet connection
-- [Github account](https://github.com/)
-- [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowledge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+- [*] Good internet connection
+- [*] [Github account](https://github.com/)
+- [*] [Basic](http://rogerdudler.github.io/git-guide/) [GIT](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) [knowledge](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 
 ### Project Roles
 
