@@ -66,7 +66,7 @@ There can be scenarios, of course, when same person can undertake various roles
 4. checking team memebers time availability
 4. **Asigning roles**
 5. **Asigning milestones** with deadlines (with github issues)
-6. **Asigning tasks** on timeline (with github projects)
+6. **Asigning tasks** (with github projects)
 7. **Developement**
     - creation of interface wireframe
     - interface design
