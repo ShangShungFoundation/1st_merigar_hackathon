@@ -11,11 +11,11 @@ Great to have you onboard!! :)
 With this event, we are initiating the broader campaign “Programmers for Tibetan Culture” in which all programmers and institutions which recognize the value of Tibetan culture are welcome to collaborate on related Open Source projects for the benefit of all.
 
 For sure your help will be appreciated.
-Hackathon is not only good opportunity to have some fun contributing to useful project but its greate place to learn something new...
+Hackathon is not only good opportunity to have some fun contributing to the useful project but its great place to learn something new...
 
-Please choose a project taking into account your prefferences and skills.
+Please choose a project taking into account your preferences and skills.
 
-We don't pretend to deliver at the end fully fledged and polished product, but rather workable prototype for prooving given idea.
+We don't pretend to deliver at the end fully fledged and polished product, but rather a workable prototype for proving given idea.
 
 All projects will be published under Open Source _[MIT License](LICENSE)_ and can be used freely later by SSF, IDC or any other organization or person. 
 
@@ -23,10 +23,10 @@ All projects will be published under Open Source _[MIT License](LICENSE)_ and ca
 
 Spread the news and [register here now](https://goo.gl/forms/S8i8sXOCgYL2uXhP2)!
 ### Modality
-- on line, on site (Merigar)
+- online, on site (Merigar)
 
 ### You can work on following projects
-All projects will be hosted on github. Check each of them for more info:
+All projects will be hosted on GitHub. Check each of them for more info:
 
 - [Online Tibetan Learning Multimedia app](https://github.com/ShangShungFoundation/tib_learn_app)
 - [Simple Online Game](https://github.com/ShangShungFoundation/tibetan_game)
@@ -50,32 +50,32 @@ All projects will be hosted on github. Check each of them for more info:
 
 ### Possible Project Roles
 
-- **Designer, UX Expert** - prepares basic intreface design
-- **Hacker** - developes code related with his tasks to reach defined milestone 
+- **Designer, UX Expert** - prepares basic interface design
+- **Hacker** - developers code related with his tasks to reach defined milestone 
 - **Project Coordinator**
-  - helps build project team
+  - helps build the project team
   - coordinates assigning roles and tasks
   - coordinates assigning project tasks and milestones
-  - overlook of project developement
+  - overlook of project development
   - animates members to complete tasks and milestones
-  - in measure of capacity steps into developement process
-  - collaborates in presentation of finall project
+  - in the measure of capacity steps into the development process
+  - collaborates in the presentation of final project
 - **Tester** - test project
-- **Collaborator** - carry away varius non-programming tasks necessary for the project
+- **Collaborator** - carry away various non-programming tasks necessary for the project
 - **Mentor** - person understanding well domain of the project
 
-There can be scenarios, of course, when same person can undertake various roles
+There can be scenarios, of course, when the same person can undertake various roles
 
 ### Proposed Project development steps:
 
 1. **Teambuilding** - completing small team (around 3-5 persons)
-2. **Connecting team to the communcation channells** at https://conference.shangshungfoundation.org/
+2. **Connecting team to the communication channels** at https://conference.shangshungfoundation.org/
 3. **Brainstorming**
-4. checking team memebers time availability
-4. **Asigning roles**
-5. **Asigning milestones** with deadlines (with github issues)
-6. **Asigning tasks** (with github projects)
-7. **Developement**
+4. checking team members time availability
+4. **Assigning roles**
+5. **Asigning milestones** with deadlines (with GitHub issues)
+6. **Assigning tasks** (with GitHub projects)
+7. **Development**
     - creation of interface wireframe
     - interface design
     - frontend/backend developement
