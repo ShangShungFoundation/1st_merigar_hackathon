@@ -85,3 +85,6 @@ There can be scenarios, of course, when the same person can undertake various ro
 ### Contact
 
 @K1000 Kamil Selwa - k.selwa (at) shangshunginstitute.org
+
+### Resources
+- https://hackathon.guide/
