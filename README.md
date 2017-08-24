@@ -82,9 +82,21 @@ There can be scenarios, of course, when the same person can undertake various ro
 8. **Testing**
 9. **Presentation**
 
+### Hackathon Programme (all hours in Italian Time GMT+2):
+- Friday 15h
+  - Intro, Projects Presentation
+  - Project Brainstorming
+  - Organizing project teams, tasks, roles, etc
+- Saturday 10 - 13h, 14:30-18:30h
+  - Projects development
+- Sunday 
+  - 10 - 13h Projects development
+  - 15 - 17h closure, Projects Presentation, brainstorming future developments
+
 ### Contact
 
 @K1000 Kamil Selwa - k.selwa (at) shangshunginstitute.org
 
 ### Resources
+
 - https://hackathon.guide/
