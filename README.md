@@ -69,7 +69,7 @@ There can be scenarios, of course, when the same person can undertake various ro
 ### Proposed Project development steps:
 
 1. **Teambuilding** - completing small team (around 3-5 persons)
-2. **Connecting team to the communication channels** at https://conference.shangshungfoundation.org/
+2. **Connecting team to the communication channels** at https://hackathon.shangshungfoundation.org/
 3. **Brainstorming**
 4. checking team members time availability
 4. **Assigning roles**
@@ -96,6 +96,7 @@ There can be scenarios, of course, when the same person can undertake various ro
 ### Contact
 
 @K1000 Kamil Selwa - k.selwa (at) shangshunginstitute.org
+
 
 ### Resources
 
