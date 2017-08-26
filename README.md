@@ -93,6 +93,16 @@ There can be scenarios, of course, when the same person can undertake various ro
   - 10 - 13h Projects development
   - 15 - 17h closure, Projects Presentation, brainstorming future developments
 
+### Collaboration Steps
+
+1. Send your GitHub user name to the organizer to be added to the development team
+2. Pull to get most recent code
+3. Create branch with name of feature you are working on `git branch -b __feature_name__`
+4. Commit often
+5. Test well your code
+6. Merge with __master__ if eveything works
+7. Push
+
 ### Contact
 
 @K1000 Kamil Selwa - k.selwa (at) shangshunginstitute.org
